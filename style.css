@@ -1,0 +1,50 @@
+body{
+    margin:0 20%;
+    font-family:'Times New Roman', Times, serif;
+    background-image: linear-gradient(to bottom right, rgb(38, 0, 255), yellow);
+}
+
+#title{
+    text-align: center;
+    font-size:3em;
+    color: rgb(66, 10, 16);
+    padding-top: 5%;
+}
+.title2{
+    text-align: center;
+    font-size:large;
+    color: rgb(66, 4, 4);
+}
+img{
+    display: block;
+    width: 80%;
+    margin: 0 10%;
+    object-fit: cover;
+  object-position: 15% 100%;
+}
+
+#img-caption{
+    font-size: 11px;
+}
+.bio{
+    color: rgb(227, 248, 163);
+    font-size: 3rem;
+    text-decoration-style: wavy;
+}
+div#tribute-info{
+    background-color:rgba(0,0,0,0.2);
+    padding:5px 10px;
+    margin-top:20px;
+    font-size: large;
+    color: rgb(20, 14, 14);
+}
+h1.title{
+    color:white;
+    text-align:center;
+    text-shadow: 5px 5px 10px black;
+}
+
+#footer{
+    padding-top: 3%;
+    font-size: 17px;
+}
